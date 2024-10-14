@@ -1,0 +1,7 @@
+file_format: "1"
+id: Venaul
+name: FourByThree
+type: shield
+requires: [rpi_pico]
+features:
+  - keys
