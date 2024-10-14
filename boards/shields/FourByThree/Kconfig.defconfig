@@ -1,9 +1,9 @@
 # Copyright (c) 2020 The ZMK Contributors
 # SPDX-License-Identifier: MIT
 
-if SHIELD_BOARDSOURCE3X4
+if SHIELD_FourByThree
 
 config ZMK_KEYBOARD_NAME
-    default "Boardsource 3x4"
+    default "FourByThree"
 
 endif
